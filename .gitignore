@@ -1,4 +1,6 @@
+*.sh
 Pipfile
 *.pyc
 instance/
-*lock
+*.lock
+__pycache__
